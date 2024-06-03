@@ -21,4 +21,8 @@
 go.work
 go.work.sum
 
+# File configs
+.env
+
+# front
 node_modules
